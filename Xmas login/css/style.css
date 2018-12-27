@@ -15689,7 +15689,7 @@ button.bg-dark:focus {
 }
 
 .p-5 {
-  padding: 3rem !important;
+  padding: 2rem !important;
 }
 
 .pt-5,
@@ -18500,7 +18500,7 @@ html {
 
 .page-body-wrapper.full-page-wrapper {
   width: 100%;
-  min-height: 100vh;
+  min-height:100vh;
   padding-top: 0;
 }
 
@@ -18522,7 +18522,7 @@ html {
 }
 
 .content-wrapper {
-  padding: 2.75rem 2.25rem;
+  padding: 0.5rem 2.25rem;
   width: 100%;
   -webkit-flex-grow: 1;
   flex-grow: 1;
